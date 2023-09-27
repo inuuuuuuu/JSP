@@ -28,18 +28,13 @@ public class ProductRepository {
 		tablet.setUnitsInStock(1000);
 		tablet.setCondition("Old");
 		
-        Product tablet = new Product("P1236", "Galaxy Tab S", 900000);
-		tablet.setDescription("212.8*125.6*6.6mm,  Super AMOLED display, Octa-Core processor");
-		tablet.setCategory("Tablet");
-		tablet.setManufacturer("Samsung");
-		tablet.setUnitsInStock(1000);
-		tablet.setCondition("Old");
+       
 		// 위와 같이 상품 초기화 하고 아래에 상품을 추가
 
 		listOfProducts.add(phone);
 		listOfProducts.add(notebook);
 		listOfProducts.add(tablet);
-        listOfProducts.add(tablet);
+    
 		// listOfProducts.add(상품명);
 	}
 
