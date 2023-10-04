@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <%@ page contentType = "text/html;charset=utf-8" %>
+    <%@ page contentType = "text/html; charset=utf-8" %>
     <%@ page import="example.*" %> 
     <%@ page import="java.util.Date"%>
     <%HelloWorld h = new HelloWorld();%>
