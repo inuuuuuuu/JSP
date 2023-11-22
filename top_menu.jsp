@@ -6,7 +6,7 @@
     		카테고리
   		</button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        <a class="dropdown-item" href="#">CPU</a>
+        <a class="dropdown-item" href="#">메뉴1</a>
         생략….       
      </div>
 	</div>
@@ -17,7 +17,7 @@
     
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="./index.jsp">메뉴바 : 홈페이지</a>
+			<a class="navbar-brand" href="index.jsp">홈 메뉴</a>
             <a class="navbar-brand" href="./index.jsp">로그인</a>
             <a class="navbar-brand" href="./index.jsp">회원가입</a>
             <a class="navbar-brand" href="./index.jsp">고객센터</a>
