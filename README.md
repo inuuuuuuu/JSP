@@ -27,6 +27,9 @@
 -쇼핑몰 입력값 필터링 추가[js/validation.js]
 ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/fd4a08ff-0533-4592-8be7-c912a4fa82c4)
 
+<img width="266" alt="상품등록완료" src="https://github.com/inuuuuuuu/JSP/assets/127916221/0379b74e-36b4-47ca-a3db-0fe503ffe7a6">
+
+
 ### 10주차 23/11/01
 -쇼핑몰 로그인 기능 추가[login.jsp, login_failed.jsp, logout.jsp]
 -탐켓 서버 내 .xml 파일 수정[WEB-INF/web.xml]
