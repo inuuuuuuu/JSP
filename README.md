@@ -41,6 +41,13 @@
 -쇼핑몰 주문 처리 페이지 추가
 ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/8516fc48-d62b-4eca-b2dc-86eb4bba5adc)
 -도전문제1 : 배송일을 날짜를 선택하여 입력하도록 수정 O
-    날짜 라이브러리 사용, 오늘날짜 불러오고 +1하여 저장(다음날 날짜 지정), min값에 대입
-
+    
 <img width="480" alt="배송정보_도전문제" src="https://github.com/inuuuuuuu/JSP/assets/127916221/4043495c-b3da-4405-adcd-ccaf1f71d20a">
+
+-도전문제2 : 국가명을 select 박스로 수정하자 O
+    select와 option사용
+<img width="308" alt="ehwjsanswp2" src="https://github.com/inuuuuuuu/JSP/assets/127916221/f72075da-7f69-4f39-8212-de565aa8a341">
+
+-도전문제3 : 우편번호와 주소를 검색을 통해 입력되도록 수정하자 O
+    ppt에 있는 url 참고해서 응용함.
+<img width="379" alt="ehwjsanswp3" src="https://github.com/inuuuuuuu/JSP/assets/127916221/a7f4a2a3-2da9-4001-b956-2739f7bc8c60">
