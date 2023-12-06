@@ -26,8 +26,6 @@
     현재 페이지 버퍼 용량 : <%= out.getBufferSize() %> <br>
     남은 페이지 버퍼 용량 : <%= out.getRemaining() %>
 
-    <%-- CLASS는 스타일 적용시에 사용 되는 이름, 중첩 가능 --%>
     
-</body>
-
+    </body>
 </html>
