@@ -19,4 +19,19 @@
 ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/5c3139ff-a4ad-4d4f-9cca-d2cead713a9c)
 
 ### 7주차 23/10/11
--쇼핑몰 상품 등록 추가[product_add_ad.jsp/product_add_process.jsp] -관리자 전용 폴더 생성
+-쇼핑몰 상품 등록 추가[product_add_ad.jsp/product_add_process.jsp] 
+-관리자 전용 폴더 생성
+
+### 9주차 23/10/25
+-쇼핑몰 이미지 업로드 추가
+-쇼핑몰 입력값 필터링 추가[js/validation.js]
+![image](https://github.com/inuuuuuuu/JSP/assets/127916221/fd4a08ff-0533-4592-8be7-c912a4fa82c4)
+
+### 10주차 23/11/01
+-쇼핑몰 로그인 기능 추가[login.jsp, login_failed.jsp, logout.jsp]
+-탐켓 서버 내 .xml 파일 수정[WEB-INF/web.xml]
+![image](https://github.com/inuuuuuuu/JSP/assets/127916221/df8923a6-1f9b-4266-9bbb-b73a34e2dda0)
+
+### 11주차 23/11/08
+-세션 및 장바구니 기능 추가[product_cart.jsp, product_cart_add.jsp, product_cart_remove.jsp, product_cart_remove_all.jsp] 
+![image](https://github.com/inuuuuuuu/JSP/assets/127916221/a426508b-3357-4cce-b8f2-ef88b499cff1)
