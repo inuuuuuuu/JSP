@@ -42,4 +42,5 @@
 ![image](https://github.com/inuuuuuuu/JSP/assets/127916221/8516fc48-d62b-4eca-b2dc-86eb4bba5adc)
 -도전문제1 : 배송일을 날짜를 선택하여 입력하도록 수정 O
     날짜 라이브러리 사용, 오늘날짜 불러오고 +1하여 저장(다음날 날짜 지정), min값에 대입
-![image]<img width="480" alt="배송정보_도전문제" src="https://github.com/inuuuuuuu/JSP/assets/127916221/4043495c-b3da-4405-adcd-ccaf1f71d20a">
+
+<img width="480" alt="배송정보_도전문제" src="https://github.com/inuuuuuuu/JSP/assets/127916221/4043495c-b3da-4405-adcd-ccaf1f71d20a">
