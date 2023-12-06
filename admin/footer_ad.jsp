@@ -1,4 +1,6 @@
 <%@ page contentType = "text/html; charset=utf-8" %>
+<%@ page import="java.util.Date"%>
+<%@ page import="example.*" %> 
  <footer class="container">
         <p>&copy; 쇼핑몰 대표 : 오인우, 고유번호 : 20220998, 연락처 : dsdn410@gmail.com</p>
         <%
